@@ -1,4 +1,4 @@
-name: ci
+name: ci_private
 channels:
   - defaults
   - conda-forge
